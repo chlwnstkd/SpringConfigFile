@@ -58,3 +58,5 @@ management:
   server:
     address: localhost
     port: 11002
+
+poly: 'BigData Dev! Change!!!'
